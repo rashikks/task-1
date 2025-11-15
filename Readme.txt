@@ -1,9 +1,5 @@
 Local Network Port Scan
 
-Tools Used
-Nmap
-Wireshark
-Kali Linux
 
 Commands Run
 *ip addr show
